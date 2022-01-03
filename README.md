@@ -1,4 +1,4 @@
 # Testg5
 Este es mi repositorio de practica inicial
-este seria el primer commit para ejemplificar el uso de github desktop 
-
+Este mensaje es el primer commit para ejemplificar las logicas de git
+Este mensaje es para ejemplificar visual studio code y source control
